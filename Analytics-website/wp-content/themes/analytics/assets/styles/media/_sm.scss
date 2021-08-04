@@ -1,0 +1,60 @@
+.promo{
+	.container{
+		font-size: 2vw;
+	}
+}
+.normal-text{
+	.row{
+			.step-i{
+				
+				p{
+					font-size: 3vw;
+				}
+			}
+		}
+		
+}
+br{
+	display: block;
+}
+.page-template-template-login{
+	.woocommerce{
+		form{
+			p{
+				margin:0 auto;
+				label{
+				width: 120px;
+				}
+				input.input-text, textarea.input-text{
+				width: 260px;
+					
+					margin-bottom: inherit;
+				}
+			}
+		}
+		
+	}
+}
+.container{
+	&.nopadding{
+	}
+	.card{
+		// border-radius: 0;
+		.card-header{
+			// background-color: #00c8c2;
+			// color: white;
+			// border-radius: 0;
+			// padding: 12px 2.5em;
+			a{
+				// color: white;
+				// text-decoration: none;
+				font-size: 4vw;
+			}
+		}
+	}
+}
+
+h2{
+	font-size: 2.5vw;
+	
+}

@@ -1,0 +1,17 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+/wp-content/themes/analytics/dist
+/wp-content/themes/analytics/bower_components
+/wp-content/themes/analytics/node_modules
+npm-debug.log
+/wp-content/themes/analytics/vendor
+wp-config.php
+.htaccess
+/wp-content/themes/analytics/assets/manifest.json
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+/wp-content/themes/analytics/.DS_Store
+bitbucket-pipelines.yml
+.git-ftp-ignore
