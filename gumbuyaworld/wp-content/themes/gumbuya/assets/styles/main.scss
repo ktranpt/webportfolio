@@ -1,0 +1,120 @@
+@import "common/variables";
+
+// Automatically injected Bower dependencies via wiredep (never manually edit this block)
+// bower:scss
+@import "../../bower_components/bootstrap/scss/bootstrap.scss";
+// endbower
+
+@import "common/global";
+@import "components/buttons";
+@import "components/comments";
+@import "components/forms";
+@import "components/grid";
+@import "components/wp-classes";
+@import "layouts/header";
+@import "layouts/sidebar";
+@import "layouts/footer";
+@import "layouts/pages";
+@import "layouts/posts";
+@import "layouts/tinymce";
+@import "media/base";
+@import "media/font";
+
+
+
+
+@media (min-width: 576px) {
+	@import "media/sm";
+}
+@media (min-width: 768px) {
+	@import "media/md";
+}
+@media (min-width: 992px) {
+	@import "media/lg";
+}
+@media (min-width: 1200px) {
+	@import "media/xl";
+}
+
+//special css
+@media (min-width: 1400px) {
+		nav#navbar{
+			height: 150px;
+			.navbar-brand{
+				img{
+					max-width: 275px;
+				}
+			}
+			padding-left: 3em;
+			padding-right: 3em;
+		}
+	
+		.full-height{
+			height: calc(100vh - 150px + 300px)
+		}
+		.nav-link{
+			font-size: 1.4em;
+			margin-left: .6em;
+		}
+		footer.footer{
+			.copyright{
+				p{
+					font-size: .7em;
+				}
+			}
+			.footer-item{
+				h3{
+					font-size: 2.5em;
+					margin-bottom: .5em;
+				}
+				p{
+					font-size: 1.1em;
+				}
+			}
+		  padding-left: 3em;
+		  height: 400px;
+		  padding-right: 3em;
+			.logo{
+			  img{
+				max-width: 275px;
+			  }
+			}
+		}
+	
+	}
+
+@media (min-width: 1640px) {
+	footer.footer{
+		.copyright{
+			p{
+				font-size: .8em;
+			}
+		}
+		.footer-item{
+			h3{
+				font-size: 3em;
+				margin-bottom: .5em;
+			}
+			p{
+				font-size: 1.2em;
+			}
+		}
+		height: 400px;
+	  padding-left: 3em;
+	  padding-right: 3em;
+		.logo{
+		  img{
+			max-width: 275px;
+		  }
+		}
+	}
+	nav#navbar{
+		padding-left: 3em;
+		padding-right: 3em;
+	}
+	.nav-link{
+		font-size: 1.8em;
+		margin-left: .7em;
+	}
+
+}

@@ -1,0 +1,171 @@
+.nav-link{
+    font-size: 1.6vw;
+    margin-left: 0.3vw;
+}
+
+nav#navbar{
+	height: 125px;
+	padding-left: 2em;
+	padding-right: 2em;
+	.navbar-brand{
+		img{
+			max-width: 200px;
+		}
+		}
+	&.fixated {
+			height: 90px;
+			margin-top: -10.1em;
+	}
+  .navbar-collapse{
+        padding-bottom: 0;
+    }
+    .collapse{
+        height: 100%;
+        width: inherit;
+        position: inherit;
+        top: inherit;
+        z-index: inherit;
+        background-color: inherit;
+        left: inherit;
+        right: inherit;
+        text-align: inherit;
+        ul{
+          margin-left: auto;
+          // margin-top: auto;
+          // margin-bottom: 1.2em;
+        }
+      }
+  }
+  footer.footer{
+		.copyright{
+			p{
+				font-size: .6em;
+			}
+		}
+	.footer-item{
+		h3{
+			font-size: 1.75em;
+			margin-bottom: .3em;
+		}
+		p{
+			font-size: .9em;
+		}
+	}
+	height: 275px;
+	padding-left: 2em;
+	padding-right: 2em;
+      .logo{
+          margin-right: 3em;
+        img{
+          max-width: 200px;
+        }
+      }
+      .social{
+          margin-left: 2em;
+      }
+  }
+  .full-height{
+    height: calc(100vh - 125px + 275px)
+  }
+  .section-1{
+    .custom-container{
+      top:-275px;
+    }
+    .text{
+		padding: 2em 4em;
+		.separator{
+			margin: 2em auto;
+		}
+		  h2{
+			  font-size: 3.3em;
+			  margin-bottom: .3em;
+		  }
+		  p{
+			  font-size: 1.5em;
+		  }
+	  }
+	  .overlay{
+		  .rollover{
+			  h3{
+				font-size: 2.25em;
+			  }
+			  p{
+				font-size: 1.6em;
+				line-height: 1;
+				width: 80%;
+			  }
+		  }
+	  }
+  }
+  .section-2{
+	padding: 3.5em 0 2em;
+	  .price{
+		  .round-price{
+			width: 200px;
+			height: 200px;
+		  }
+		  p{
+			  font-size: 1.8em;
+		  }
+		  span{
+			  font-size:1.2em;
+		  }
+		  h2{
+			  font-size:3.5em;
+		  }
+	  }
+	  .button-ticket{
+		button{
+			padding-left: 1em;
+			padding-right: 1em;
+			line-height: 2;
+			font-size: 2.2em;
+			margin-top: 1em;
+			// margin-bottom: 2.5em;
+		}
+	}
+  }
+  .section-3{
+	  h2{
+        font-size:3.5em;
+	  }
+  }
+  .section-4{
+	p{
+		font-size: 1.5em;
+    margin-bottom:0;
+    &.address{
+			margin-top: .7em;
+			margin-bottom: 1em;
+      font-size: 1.1em;
+    }
+		line-height: 1.2;
+	}
+	h2{
+	  font-size:3.2em;
+	  margin-bottom: .2em;
+	}
+	button{
+		font-size: 2.1em;
+	}
+  }
+  .section-5{
+	.pt{
+		padding-top: 2em;
+		padding-bottom: 2em;
+	}
+	p{
+		font-size: 1.5em;
+		margin-bottom: .5em;
+		&.cond{
+			font-size: 1em
+		}
+	}
+	h2{
+		font-size:2.8em;
+		margin-bottom: .3em;
+	}
+	button{
+		font-size: 2.1em;
+	}
+  }

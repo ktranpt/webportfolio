@@ -1,0 +1,17 @@
+#fullpage{
+    .footer{
+        display: flex;
+    }
+    .text{
+        p{
+            padding-left: 3em;
+            padding-right: 3em;
+            font-size: 1.2em;
+        }
+        span{
+            a{
+                font-size: 1.2em;
+            }
+        }
+    }
+}

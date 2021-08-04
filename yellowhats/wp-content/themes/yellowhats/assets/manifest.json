@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "main.js": {
+      "files": [
+        "scripts/main.js",
+        "scripts/bootstrap.min.js",
+        "scripts/jquery-2.1.1.min.js",
+        "scripts/plugins.js"
+      ],
+      "main": true
+    },
+    "main.css": {
+      "files": [
+        "styles/bootstrap.min.css",
+        "styles/external.css",
+        "styles/main.scss"
+        
+      ],
+      "main": true
+    },
+    "customizer.js": {
+      "files": [
+        "scripts/customizer.js"
+      ]
+    },
+    "jquery.js": {
+      "bower": ["jquery"]
+    }
+  },
+  "config": {
+    "devUrl": "http://localhost:8888/yellowhats"
+  }
+}

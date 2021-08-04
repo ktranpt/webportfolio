@@ -1,0 +1,339 @@
+[16-Nov-2017 11:50:57 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_mail_from' not found or invalid function name in /home/sydneycollect1v3/public_html/staging/wp-includes/class-wp-hook.php on line 298
+[19-Nov-2017 11:14:23 UTC] activate
+[19-Nov-2017 11:14:23 UTC] before environmental checks
+[19-Nov-2017 11:14:23 UTC] after environmental checks
+[19-Nov-2017 11:14:23 UTC] before dbdelta
+[19-Nov-2017 11:14:23 UTC] after dbdelta
+[19-Nov-2017 11:14:24 UTC] after table insertion
+[19-Nov-2017 11:14:24 UTC] current version is null
+[19-Nov-2017 11:22:21 UTC] WordPress database error Table 'sydneyco_stage.wp_hplugin_root' doesn't exist for query SELECT * FROM `wp_hplugin_root` WHERE `plugin_name` = 'hlogin'; made by activate_plugin, include_once('/plugins/hlogin/hlogin.php'), heroplugin_hlogin->__construct, hlogin_activate->__construct, hlogin_activate->update_check
+[20-Nov-2017 03:15:05 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-home.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:05 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-member.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:05 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-service.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:12 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-home.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:12 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-member.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:12 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-service.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:13 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-home.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:13 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-member.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:13 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-service.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:36 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-home.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:36 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-member.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:36 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-service.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:39 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-home.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:39 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-member.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:39 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-service.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:45 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-home.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:45 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-member.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:45 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-service.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:47 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-home.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:47 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-member.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:47 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-service.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:50 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-home.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:50 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-member.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:50 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-service.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:53 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-home.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:53 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-member.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:15:53 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-service.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:16:01 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-home.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:16:01 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-member.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:16:01 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-service.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:16:02 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-home.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:16:02 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-member.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:16:02 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-service.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:16:08 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-home.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:16:08 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-member.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:16:08 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-service.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:16:11 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-home.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:16:11 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-member.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[20-Nov-2017 03:16:11 UTC] PHP Warning:  file_get_contents(/home/sydneycollect1v3/public_html/wp-content/themes/crs/templates/template-service.php): failed to open stream: No such file or directory in /home/sydneycollect1v3/public_html/wp-includes/class-wp-theme.php on line 1042
+[25-Nov-2017 10:14:07 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2017 10:15:03 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2017 10:32:22 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2017 10:32:39 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2017 10:33:21 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2017 10:34:57 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2017 10:37:19 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2017 10:37:58 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2017 10:38:35 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2017 10:39:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2017 10:40:17 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2017 10:41:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2017 10:42:11 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2017 10:42:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2017 10:43:11 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Dec-2017 06:49:38 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Dec-2017 07:53:09 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Dec-2017 11:02:33 UTC] WordPress database error Cannot delete or update a parent row: a foreign key constraint fails for query DROP TABLE IF EXISTS `wp_hlogin_default_storage_table`; made by do_action('wp_ajax_delete-plugin'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wp_ajax_delete_plugin, delete_plugins, uninstall_plugin, include('/plugins/hlogin/uninstall.php')
+[04-Jan-2018 11:06:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sydneycollect1v3/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 2274
+[04-Jan-2018 11:14:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sydneycollect1v3/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 2274
+[04-Jan-2018 11:17:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sydneycollect1v3/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 2274
+[04-Jan-2018 11:17:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sydneycollect1v3/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 2274
+[04-Jan-2018 11:17:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sydneycollect1v3/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 2274
+[14-Jan-2018 00:32:13 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:33:24 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:33:45 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:33:56 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:33:59 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:34:07 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:34:08 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:34:22 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:34:23 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:34:24 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:34:37 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:34:53 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:35:08 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:35:24 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:35:38 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:37:39 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:39:39 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:39:47 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:39:53 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:40:12 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:40:28 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:16 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:18 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:24 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:26 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:29 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:31 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:32 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:32 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:43 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:47 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:48 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:48 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:49 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:52 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:54 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:55 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:55 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:41:56 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:42:00 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:42:12 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:42:13 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:42:13 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:42:14 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:42:27 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:02 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:05 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:07 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:07 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:12 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:12 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:13 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:13 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:16 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:17 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:17 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:18 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:18 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:20 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:27 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:27 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:28 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:43:29 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:44:31 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:44:39 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:44:40 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:44:40 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:44:45 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:44:46 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:44:46 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:44:47 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:44:47 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:44:50 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:44:51 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:44:53 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:44:53 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:44:55 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:45:00 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:45:04 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:45:05 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:45:05 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:45:07 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:45:20 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:47:21 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:48:56 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:02 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:04 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:04 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:12 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:12 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:13 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:13 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:14 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:17 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:17 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:18 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:18 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:28 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:29 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:30 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:30 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:31 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:49:45 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:50:21 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:50:29 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:50:30 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:50:30 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:50:35 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:50:36 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:50:37 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:50:38 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:50:39 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:50:42 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:50:42 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:50:43 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:50:44 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:50:50 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:51:44 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:51:58 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:52:47 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:52:54 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:52:56 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:52:56 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:01 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:03 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:03 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:04 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:04 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:05 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:07 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:08 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:15 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:15 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:16 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:16 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:17 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:19 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:21 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:23 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:26 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:27 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:27 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:27 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:27 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:27 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:28 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:30 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:31 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:32 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:34 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:34 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:35 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:35 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:36 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:46 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:51 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:52 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:52 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:53:53 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:54:07 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:56:08 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:56:51 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:56:57 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:56:58 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:56:58 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:57:05 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:57:07 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:57:08 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:57:08 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:57:09 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:57:10 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:57:11 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:57:11 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:57:12 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:57:21 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:57:35 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:26 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:26 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:27 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:28 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:33 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:33 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:33 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:33 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:35 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:36 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:36 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:37 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:37 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:37 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:40 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:58:55 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:09 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:10 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:10 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:10 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:12 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:18 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:18 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:18 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:18 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:19 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:20 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:20 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:21 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:21 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:22 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:22 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:22 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:25 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:33 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:34 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:34 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:35 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 00:59:48 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:01:48 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:02:04 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:02:19 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:03:01 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:06:24 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:06:34 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:06:47 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:06:49 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:07:05 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:07:24 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:09:31 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:09:38 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:09:53 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:10:08 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:10:11 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:10:11 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:10:11 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:10:25 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:10:37 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:10:38 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:10:48 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:10:48 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:10:50 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:11:03 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:11:19 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:11:33 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:11:49 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:12:03 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:12:19 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:12:33 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:12:48 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:13:03 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:13:19 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:13:34 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:14:02 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:14:19 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:16:19 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:16:37 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:16:52 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:17:08 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:19:09 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:21:10 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:23:10 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:24:38 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:24:38 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:24:39 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:24:48 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:25:11 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 01:27:11 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 09:20:46 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 09:20:51 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 09:21:07 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
+[14-Jan-2018 09:23:07 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).

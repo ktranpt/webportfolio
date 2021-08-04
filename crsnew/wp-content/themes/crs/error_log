@@ -1,0 +1,1 @@
+[19-Nov-2017 13:17:09 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home/sydneycollect1v3/public_html/staging/wp-content/themes/crs/index.php on line 1

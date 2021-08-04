@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Place searches</title>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+<meta charset="utf-8">
+<style>
+    html, body, #map-canvas {
+    height: 100%;
+    margin: 0px;
+    padding: 0px
+}
+</style>
+</head>
+<body>
+    <div id="allmap" style="width:500px;height:380px;"></div>
+</body>
+<script src="http://api.map.baidu.com/api?v=2.0&ak=You BAIDU API"></script>
+<script>
+    var map = new BMap.Map("allmap")
+    var myCenter = new BMap.Point(116.331398, 39.897445);
+    map.centerAndZoom(myCenter, 17);
+    var mk = new BMap.Marker(myCenter);
+    map.addOverlay(mk);
+    map.panTo(myCenter);
+    search(myCenter, 1000_000)
+    
+    function search(point, radiu) {
+        var local = new BMap.LocalSearch(map, { renderOptions: { map: map, autoViewport: false } });
+        local.searchNearby('餐馆', point, radiu);
+    }
+</script>
+</html>
