@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="apple-touch-icon" sizes="57x57" href="/employsure/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/employsure/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/employsure/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/employsure/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/employsure/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/employsure/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/employsure/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/employsure/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/employsure/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/employsure/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/employsure/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/employsure/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/employsure/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<title>Employsure</title>
+<!-- removeIf(build) -->
+<!-- build:js css/assets.css -->
+
+<!-- bower:css -->
+<link rel="stylesheet" href="bower_components/normalize-css/normalize.css" />
+<!-- endbower -->
+
+<!-- endbuild -->
+<!-- endRemoveIf(build) -->
+
+<!-- build:js css/style.css -->
+<!-- inject:css -->
+
+
+
+<link rel="stylesheet" href=".tmp/style.css">
+
+
+
+<!-- endinject -->
+
+<!-- endbuild -->
+</head>
+<body>
+<div class="header">
+	<div class="title"> 
+		<div><img class="logo" src="images/logo.png" alt="My Logo"></div>	
+	</div>
+	<!-- <p>workplace relations specialists</p> -->
+</div>
+
+<div class="content">
+	<div class="bg_left"></div>
+	<div class="bg_right"></div>
+<form id="form_q" autocomplete="off" >
+	<div class="form">
+			<h2>Request a <br/> FREE consultation</h2>
+			<div class="separator"><hr></div>
+			
+			<span>Your friendly Employsure expert Jim Bouyoukas will be happy<br/> to contact you for a free, no-commitment consultation about how<br/> Employsure can help your business</span>
+			<div class="form-style">
+			
+			<label for="s_name" class="arialfont">Name</label><br/><input class="text" type="text" name="s_name" id="s_name" required>
+			<label for="s_email" class="arialfont">Email</label><br/><input class="text" type="text" name="s_email" id="s_email" required onchange="this.setCustomValidity('')">
+			<label for="s_phone" class="arialfont">Phone number</label><br/><input class="text" type="text" name="s_phone" id="s_phone" required onchange="this.setCustomValidity('')">
+			
+			<div class="maxl">
+				<div class="part1"><label>Preferred method of contact:</label></div>	
+				<div class="part2">
+						<input type="radio" name="selection" class="radio" value="phone" id="ss_phone" >
+						<label for="ss_phone" id="a_phone"> Phone </label>  
+					
+						<input type="radio" name="selection" class="radio" value="Email" id="ss_email">
+						<label for="ss_email"> Email </label>  
+				</div>		
+			</div>
+				<p id='msg1'></p>
+		
+			<div class="notes">
+				<p class="padding15">If you have a preferred day and time for Jim to contact you, <br/> please let us know:</p>		
+				<textarea class="text-1" type="text" name="s_note" id="s_note"></textarea>
+				<input class="btn submit_button"  type="submit" value="SUBMIT"  />
+				<div class="wait">
+					<div class="double-bounce1"></div>
+					<div class="double-bounce2"></div>
+				</div>
+				
+			</div>
+			<p id='msg'></p>
+		</div>
+				
+	</div>
+</form>
+</div>
+<div class="footer clearfix">
+	<div>
+			Jim Bouyoukas t. <a href="tel:0475 964 029">0475 964 029</a> e. <a href="emailto:jim.bouyoukas@employsure.com.au">jim.bouyoukas@employsure.com.au</a>
+	</div>
+		
+</div>
+
+
+<!-- removeIf(build) -->
+	<!-- build:js scripts/assets.js -->
+	
+	<!-- bower:js -->
+	<script src="bower_components/jquery/dist/jquery.js"></script>
+	<script src="bower_components/modernizr/modernizr.js"></script>
+	<script src="bower_components/validate/validate.js"></script>
+	<!-- endbower -->
+
+	<!-- endbuild -->
+	<!-- endRemoveIf(build) -->
+
+	<!-- build:js scripts/scripts.js -->
+		<!-- inject:js -->
+
+		<script src="scripts/init.js"></script>
+
+		<!-- endinject -->
+	<!-- endbuild -->
+</body>
+</html>
